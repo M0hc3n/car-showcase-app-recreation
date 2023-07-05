@@ -25,3 +25,5 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+**N.B:** Make sure to create your own *.env* file and fill it with your own credentials.
