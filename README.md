@@ -1,4 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Details
+This project is part of [jsmastery course](https://www.youtube.com/watch?v=pUNSHPyVryU) on Next and Typescript. Follow him for more of such content on **Webdev**.
+
+## API
+the API throughout this project is [RapidAPI cars](https://rapidapi.com/apininjas/api/cars-by-api-ninjas), it provides a rich dataset of cars with many useful features that can be exploited for a lot of use cases!
+
+# Authentication
+I have added the authentication part to the original website. Although I have not exploited it, it can be developed to allow users to add their preferred cars or even their own cars to the website.
+To ease up development and learn more about **Next-Auth**, I have used **Google Auth API** to handle authentication.
+
+## What I have learned:
+  This mini-project allowed me to learn and boost my skills in the follwing:
+- Next
+- Typescript
+- Tailwind CSS
+- Google Auth API
 
 ## Getting Started
 
@@ -6,29 +22,6 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
